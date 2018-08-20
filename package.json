@@ -1,0 +1,14 @@
+{
+  "name": "create-static-app",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MiguelCrespo/create-static-app.git",
+  "author": "Miguel Crespo <miguel.crespo6@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cheerio": "^0.22.8",
+    "@types/fs-extra": "^5.0.4",
+    "cheerio": "^1.0.0-rc.2",
+    "fs-extra": "^7.0.0"
+  }
+}
